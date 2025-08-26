@@ -1,3 +1,15 @@
 [submodule "Model/test-model/whisper"]
 	path = Model/test-model/whisper
 	url = https://github.com/kittipat12zxc/whisper.git
+[submodule "Model/fine-tune/whisper-finetune1"]
+	path = Model/fine-tune/whisper-finetune1
+	url = https://github.com/kittipat12zxc/whisper-finetune.git
+[submodule "Model/fine-tune/whisper-finetune2"]
+	path = Model/fine-tune/whisper-finetune2
+	url = https://github.com/kittipat12zxc/whisper-finetune2.git
+[submodule "Model/fine-tune/whisper-finetune3"]
+	path = Model/fine-tune/whisper-finetune3
+	url = https://github.com/kittipat12zxc/whisper-finetune3.git
+[submodule "Model/fine-tune/whisper-finetune4"]
+	path = Model/fine-tune/whisper-finetune4
+	url = https://github.com/kittipat12zxc/whisper-finetune4.git
