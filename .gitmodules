@@ -1,0 +1,3 @@
+[submodule "Model/test-model/whisper"]
+	path = Model/test-model/whisper
+	url = https://github.com/kittipat12zxc/whisper.git
